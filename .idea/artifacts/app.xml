@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="app">
+    <output-path>$PROJECT_DIR$/out/artifacts/app</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Main" />
+        <option name="description" value="" />
+        <option name="height" value="500" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="700" />
+      </options>
+    </properties>
+    <root id="root" />
+  </artifact>
+</component>

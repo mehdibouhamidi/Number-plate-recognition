@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/commons-io-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/fontbox-2.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/ghost4j-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/itext-2.1.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jai-imageio-core-1.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jbig2-imageio-3.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jboss-logging-3.1.4.GA.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jboss-vfs-3.2.12.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jcl-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jna-4.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/jul-to-slf4j-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/lept4j-1.9.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/log4j-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/logback-classic-1.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/logback-core-1.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/pdfbox-2.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/pdfbox-debugger-2.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/pdfbox-tools-2.0.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/tess4j-4.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/tess4j4.0.2/xmlgraphics-commons-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
